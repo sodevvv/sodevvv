@@ -17,7 +17,7 @@ Développeur scripting & web — passionné par développement
 
 ### 🛠️ Technologies & Outils
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=lua,js,react,ts,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=lua,js,react,ts,html,css" />
 </p>
 
 ---
