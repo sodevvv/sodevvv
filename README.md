@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 moi c’est So</h1>
 
-<!--
-**sodevvv/sodevvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Développeur scripting & web — passionné par Lua et le front-end
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 À propos de moi
+- 🔧 Lua — expérimenté  
+- ⚛️ JavaScript / React — intermédiaire  
+- 🌀 TypeScript — débutant  
+- 🎨 HTML / CSS — bases solides  
+- 📚 Toujours en train d’apprendre et créer
+
+---
+
+### 🛠️ Technologies & Outils
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=lua,js,react,ts,html,css,nodejs,git,github,vscode" />
+</p>
+
+---
+
+### 📫 Me contacter
+- Discord : **ton pseudo**
+- Email : **ton email si tu veux**
