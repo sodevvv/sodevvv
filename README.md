@@ -8,20 +8,19 @@ Développeur scripting & web — passionné par Lua et le front-end
 
 ### 🚀 À propos de moi
 - 🔧 Lua — expérimenté  
-- ⚛️ JavaScript / React — intermédiaire  
+- ⚛️ JavaScript / React — expérimenté  
 - 🌀 TypeScript — débutant  
-- 🎨 HTML / CSS — bases solides  
+- 🎨 HTML / CSS — expérimenté
 - 📚 Toujours en train d’apprendre et créer
 
 ---
 
 ### 🛠️ Technologies & Outils
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=lua,js,react,ts,html,css,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=lua,js,react,ts,html,css,git,github,vscode" />
 </p>
 
 ---
 
 ### 📫 Me contacter
-- Discord : **ton pseudo**
-- Email : **ton email si tu veux**
+- Discord : **so_devv**
