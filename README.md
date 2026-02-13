@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 moi c’est So</h1>
+<h1 align="center">Hey moi c’est So</h1>
 
 <p align="center">
 Développeur scripting & web — passionné par développement
