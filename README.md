@@ -1,7 +1,7 @@
 <h1 align="center">Hey moi c’est So</h1>
 
 <p align="center">
-Développeur scripting & web — passionné par développement
+Développeur FiveM & web
 </p>
 
 ---
@@ -11,16 +11,9 @@ Développeur scripting & web — passionné par développement
 - ⚛️ JavaScript / React — expérimenté  
 - 🌀 TypeScript — débutant  
 - 🎨 HTML / CSS — expérimenté
-- 📚 Toujours en train d’apprendre et créer
-
 ---
 
 ### 🛠️ Technologies & Outils
 <p align="left">
   <img src="https://skillicons.dev/icons?i=lua,js,react,ts,html,css" />
 </p>
-
----
-
-### 📫 Me contacter
-- Discord : **so_devv**
