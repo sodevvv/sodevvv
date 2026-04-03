@@ -8,7 +8,7 @@ Développeur FiveM & web
 
 ### 🚀 À propos de moi
 - 🔧 Lua — expérimenté  
-- ⚛️ JavaScript / React — expérimenté  
+- ⚛️ JavaScript / React — intermédiaire
 - 🌀 TypeScript — débutant  
 - 🎨 HTML / CSS — expérimenté
 ---
