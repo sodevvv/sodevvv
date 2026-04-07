@@ -3,8 +3,8 @@
 # ⚡ Hey, moi c’est So ⚡
 **Développeur Full-Stack & Spécialiste FiveM**
 
-[![Portfolio](https://img.shields.io/badge/Consulter-Mon_Portfolio-007ACC?style=for-the-badge&logo=react&logoColor=white)](https://sodev.site/)
-[![Discord](https://img.shields.io/badge/Discord-Sodev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/votre_lien)
+[![Portfolio](https://sodev.netlify.app/)
+[![Discord](https://discord.gg/an54EV4aX5)
 
 ---
 
@@ -34,16 +34,6 @@ Passionné par la création d'environnements immersifs sur **FiveM** et le déve
 </p>
 
 ---
-
-### 📊 Mes Statistiques GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sodevvv&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats de sodevvv" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodevvv&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
-</p>
-
----
-
 ### 📂 Projets Récents
 *Découvrez mes dernières créations directement sur mon [Portfolio](https://sodev.site/)*
 
