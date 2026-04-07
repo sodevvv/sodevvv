@@ -3,8 +3,8 @@
 # ⚡ Hey, moi c’est So ⚡
 **Développeur Full-Stack & Spécialiste FiveM**
 
-[![Portfolio](https://sodev.netlify.app/)
-[![Discord](https://discord.gg/an54EV4aX5)
+[![Portfolio](https://img.shields.io/badge/Consulter-Mon_Portfolio-007ACC?style=for-the-badge&logo=react&logoColor=white)]([https://sodev.site/](https://sodev.netlify.app/))
+[![Discord](https://img.shields.io/badge/Discord-Sodev-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg/votre_lien](https://discord.gg/an54EV4aX5))
 
 ---
 
