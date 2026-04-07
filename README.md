@@ -42,11 +42,3 @@ Passionné par la création d'environnements immersifs sur **FiveM** et le déve
 </p>
 
 ---
-
-### 📂 Projets Récents
-*Découvrez mes dernières créations directement sur mon [Portfolio](https://sodev.netlify.app/)*
-
-1. **Scripts FiveM** : Systèmes d'économie et d'interaction avancés.
-2. **Web Apps** : Dashboards de gestion et vitrines interactives.
-
-</div>
