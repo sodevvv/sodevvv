@@ -1,40 +1,41 @@
 <div align="center">
 
 # ⚡ Hey, moi c’est So ⚡
+**Développeur Full-Stack & Spécialiste FiveM**
 
-> **Développeur Full-Stack | Spécialiste FiveM & Web**
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Passionn%C3%A9+par+l'optimisation;Cr%C3%A9ateur+d'exp%C3%A9riences+FiveM;D%C3%A9veloppeur+React+%2F+TypeScript)](https://git.io/typing-svg)
+[![Portfolio](https://img.shields.io/badge/Consulter-Mon_Portfolio-007ACC?style=for-the-badge&logo=react&logoColor=white)](https://sodev.site/)
+[![Discord](https://img.shields.io/badge/Discord-Sodev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/votre_lien)
 
 ---
 
-### 🚀 En quelques mots
-Passionné par la création d'environnements immersifs sur **FiveM** et d'interfaces web modernes. 
-Je transforme des idées complexes en code propre et performant.
+### 🚀 À propos de moi
+Passionné par la création d'environnements immersifs sur **FiveM** et le développement d'applications web robustes. Je me concentre sur la performance et l'expérience utilisateur (UI/UX).
 
-[💻 Mes Projets](#) • [📬 Me Contacter](#) • [🌐 Portfolio](#)
+- 🔧 **Lua** : Création de scripts complexes et optimisation côté serveur.
+- ⚛️ **Web** : Interfaces modernes avec React et backends évolutifs (Django/MySQL).
+- 📈 **Objectif** : Perfectionner mon expertise en TypeScript et l'architecture logicielle.
 
 ---
 
 ### 🛠️ Ma Stack Technique
 
-**Langages & Frameworks**
+**Développement & Bases de données**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,js,ts,react,html,css,python,django,mysql" />
+    <img src="https://skillicons.dev/icons?i=lua,js,ts,react,html,css,python,django,mysql" alt="Stack technique" />
   </a>
 </p>
 
-**Outils & Environnement**
+**Outils & Workflow**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,windows,git,github,markdown" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,markdown" alt="Outils" />
   </a>
 </p>
 
 ---
 
-### 📊 Statistiques GitHub
+### 📊 Mes Statistiques GitHub
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sodevvv&show_icons=true&theme=tokyonight&hide_border=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodevvv&layout=compact&theme=tokyonight&hide_border=true" />
@@ -42,14 +43,10 @@ Je transforme des idées complexes en code propre et performant.
 
 ---
 
-### 🤝 Travaillons ensemble
-- 🔭 Je travaille actuellement sur : **[Nom de ton projet principal]**
-- 🌱 J'approfondis mes compétences en : **TypeScript & Architecture Backend**
-- 💬 Pose-moi des questions sur : **Le développement de scripts FiveM ou l'UI/UX**
+### 📂 Projets Récents
+*Découvrez mes dernières créations directement sur mon [Portfolio](https://sodev.netlify.app/)*
 
-<p align="center">
-  <a href="mailto:ton-email@exemple.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://discord.com"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
+1. **Scripts FiveM** : Systèmes d'économie et d'interaction avancés.
+2. **Web Apps** : Dashboards de gestion et vitrines interactives.
 
 </div>
