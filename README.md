@@ -20,14 +20,14 @@ Passionné par la création d'environnements immersifs sur **FiveM** et le déve
 ### 🛠️ Ma Stack Technique
 
 **Développement & Bases de données**
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=lua,js,ts,react,html,css,python,django,mysql" alt="Stack technique" />
   </a>
 </p>
 
 **Outils & Workflow**
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,markdown" alt="Outils" />
   </a>
@@ -37,8 +37,14 @@ Passionné par la création d'environnements immersifs sur **FiveM** et le déve
 
 ### 📊 Mes Statistiques GitHub
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sodevvv&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodevvv&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sodevvv&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats de sodevvv" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sodevvv&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
 </p>
 
 ---
+
+### 📂 Projets Récents
+*Découvrez mes dernières créations directement sur mon [Portfolio](https://sodev.site/)*
+
+</div>
