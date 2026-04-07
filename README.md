@@ -35,6 +35,6 @@ Passionné par la création d'environnements immersifs sur **FiveM** et le déve
 
 ---
 ### 📂 Projets Récents
-*Découvrez mes dernières créations directement sur mon [Portfolio](https://sodev.site/)*
+*Découvrez mes dernières créations directement sur mon [Portfolio](https://sodev.netlify.app/)*
 
 </div>
