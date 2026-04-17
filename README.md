@@ -34,7 +34,7 @@ Passionné par la création d'environnements immersifs sur **FiveM** et le déve
 </p>
 
 ---
-![So's Github stats](https://github-readme-stats.vercel.app/api?username=Ekinoxx0&show_icons=true)
+![So's Github stats](https://github-readme-stats.vercel.app/api?username=sodevvv&show_icons=true)
 
 
 ---
