@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Hey, moi c’est So ⚡
+# Hey, moi c’est So ⚡
 **Développeur Full-Stack & Spécialiste FiveM**
 
 [![Portfolio](https://img.shields.io/badge/Consulter-Mon_Portfolio-007ACC?style=for-the-badge&logo=react&logoColor=white)]([https://sodev.site/](https://sodev.netlify.app/))
@@ -8,13 +8,8 @@
 
 ---
 
-### 🚀 À propos de moi
+### À propos de moi
 Passionné par la création d'environnements immersifs sur **FiveM** et le développement d'applications web robustes. Je me concentre sur la performance et l'expérience utilisateur (UI/UX).
-
-- 🔧 **Lua** : Création de scripts complexes et optimisation côté serveur.
-- ⚛️ **Web** : Interfaces modernes avec React et backends évolutifs (Django/MySQL).
-- 📈 **Objectif** : Perfectionner mon expertise en TypeScript et l'architecture logicielle.
-
 ---
 
 ### 🛠️ Ma Stack Technique
