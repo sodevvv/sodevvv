@@ -34,6 +34,10 @@ Passionné par la création d'environnements immersifs sur **FiveM** et le déve
 </p>
 
 ---
+![So's Github stats](https://github-readme-stats.vercel.app/api?username=Ekinoxx0&show_icons=true)
+
+
+---
 ### 📂 Projets Récents
 *Découvrez mes dernières créations directement sur mon [Portfolio](https://sodev.netlify.app/)*
 
