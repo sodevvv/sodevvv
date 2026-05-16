@@ -29,7 +29,11 @@ Passionné par la création d'environnements immersifs sur **FiveM** et le déve
 </p>
 
 ---
-![So's Github stats](https://github-readme-stats.vercel.app/api?username=sodevvv&show_icons=true)
+#### My DevGlobe stats
+
+[![Coding time (all-time)](https://devglobe.app/api/badge/sodevvv/coding-time-all.svg?theme=dark)](https://devglobe.app/developers/sodevvv) [![Streak](https://devglobe.app/api/badge/sodevvv/streak.svg?theme=dark)](https://devglobe.app/developers/CaadriFR)
+
+[![Languages (last 7 days)](https://devglobe.app/api/card/sodevvv/langs-7d.svg?theme=dark)](https://devglobe.app/developers/CaadriFR)
 
 
 ---
