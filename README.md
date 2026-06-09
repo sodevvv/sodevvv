@@ -28,7 +28,8 @@
 
 [![Languages (last 7 days)](https://devglobe.app/api/card/sodevvv/langs-7d.svg?theme=dark)](https://devglobe.app/developers/CaadriFR)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sodevvv&color=d33e3d" alt="So" /> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sodevvv&color=d33e3d" alt="So" /> </p>
 ---
 ### 📂 Projets Récents
 *Découvrez mes dernières créations directement sur mon [Portfolio](https://sodev.netlify.app/)*
