@@ -22,13 +22,13 @@
 </p>
 
 ---
-#### My DevGlobe stats
+#### My stats
 
 [![Coding time (all-time)](https://devglobe.app/api/badge/sodevvv/coding-time-all.svg?theme=dark)](https://devglobe.app/developers/sodevvv) [![Streak](https://devglobe.app/api/badge/sodevvv/streak.svg?theme=dark)](https://devglobe.app/developers/CaadriFR)
 
 [![Languages (last 7 days)](https://devglobe.app/api/card/sodevvv/langs-7d.svg?theme=dark)](https://devglobe.app/developers/CaadriFR)
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sodevvv&color=d33e3d" alt="So" /> </p>
 ---
 ### 📂 Projets Récents
 *Découvrez mes dernières créations directement sur mon [Portfolio](https://sodev.netlify.app/)*
