@@ -30,7 +30,8 @@
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sodevvv&color=d33e3d" alt="So" /> </p>
----
+-----------
+
 ### 📂 Projets Récents
 *Découvrez mes dernières créations directement sur mon [Portfolio](https://sodev.netlify.app/)*
 
