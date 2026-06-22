@@ -10,7 +10,7 @@
 **Développement & Bases de données**
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,js,ts,react,html,css,python,django,mysql" alt="Stack technique" />
+    <img src="https://skillicons.dev/icons?i=lua,js,ts,react,html,css,python,django,mysql,ue" alt="Stack technique" />
   </a>
 </p>
 
