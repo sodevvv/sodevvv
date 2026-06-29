@@ -1,38 +1,86 @@
 <div align="center">
 
-# Hey, moi c’est So ⚡
-**Développeur Full-Stack & Spécialiste FiveM**
+# So
 
-[![Portfolio](https://img.shields.io/badge/Consulter-Mon_Portfolio-007ACC?style=for-the-badge&logo=react&logoColor=white)]([https://sodev.site/](https://sodev.netlify.app/))
-[![Discord](https://img.shields.io/badge/Discord-Sodev-5865F2?style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg/votre_lien](https://discord.gg/an54EV4aX5))
-### 🛠️ Ma Stack Technique
+Full-Stack Developer • FiveM Developer
 
-**Développement & Bases de données**
+<a href="https://sodev.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+<a href="https://discord.gg/an54EV4aX5">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
+</div>
+
+---
+
+## About
+
+Passionate full-stack developer focused on building modern web applications and advanced FiveM resources.
+
+My main interests include:
+
+- Full-Stack Development
+- FiveM Development
+- UI / UX
+- Backend Architecture
+- Performance Optimization
+
+---
+
+## Tech Stack
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua,js,ts,react,html,css,python,django,mysql,unreal" alt="Stack technique" />
-  </a>
-</p>
-
-**Outils & Workflow**
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,windows,markdown" alt="Outils" />
-  </a>
+<img src="https://skillicons.dev/icons?i=lua,js,ts,react,html,css,python,django,mysql,unreal&perline=5" />
 </p>
 
 ---
-#### My stats
 
-[![Coding time (all-time)](https://devglobe.app/api/badge/sodevvv/coding-time-all.svg?theme=dark)](https://devglobe.app/developers/sodevvv) [![Streak](https://devglobe.app/api/badge/sodevvv/streak.svg?theme=dark)](https://devglobe.app/developers/CaadriFR)
+## Tools
 
-[![Languages (last 7 days)](https://devglobe.app/api/card/sodevvv/langs-7d.svg?theme=dark)](https://devglobe.app/developers/CaadriFR)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,git,github,windows,markdown" />
+</p>
 
+---
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sodevvv&color=d33e3d" alt="So" /> </p>
------------
+## Statistics
 
-### 📂 Projets Récents
-*Découvrez mes dernières créations directement sur mon [Portfolio](https://sodev.netlify.app/)*
+<p align="center">
+
+<a href="https://devglobe.app/developers/sodevvv">
+<img src="https://devglobe.app/api/badge/sodevvv/coding-time-all.svg?theme=dark">
+</a>
+
+<a href="https://devglobe.app/developers/sodevvv">
+<img src="https://devglobe.app/api/badge/sodevvv/streak.svg?theme=dark">
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://devglobe.app/developers/sodevvv">
+<img src="https://devglobe.app/api/card/sodevvv/langs-7d.svg?theme=dark">
+</a>
+
+</p>
+
+---
+
+## Projects
+
+Discover my latest work on my portfolio.
+
+<p align="center">
+<a href="https://sodev.netlify.app">sodev.netlify.app</a>
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sodevvv&color=111111">
 
 </div>
