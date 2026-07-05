@@ -81,6 +81,6 @@ Discover my latest work on my portfolio.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=sodevvv&color=111111">
+![Visitor Counter]( https://anime-counter.lulushu.workers.dev/@luluwux?scale=0.9&theme=flat&icon=%F0%9F%94%A5&color=c9d1d9&bg=21262d&stroke=30363d&animation=pulse )
 
 </div>
