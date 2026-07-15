@@ -2,7 +2,7 @@
 
 # So
 
-Full-Stack Developer • FiveM Developer
+Frontend Developer • FiveM Developer
 
 <a href="https://sodev.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white">
@@ -21,10 +21,9 @@ Passionate full-stack developer focused on building modern web applications and 
 
 My main interests include:
 
-- Full-Stack Development
+- Frontend Development
 - FiveM Development
 - UI / UX
-- Backend Architecture
 - Performance Optimization
 
 ---
@@ -32,7 +31,7 @@ My main interests include:
 ## Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=lua,js,ts,react,html,css,python,django,mysql,unreal&perline=5" />
+<img src="https://skillicons.dev/icons?i=lua,js,ts,react,html,css,python,mysql,unreal&perline=5" />
 </p>
 
 ---
