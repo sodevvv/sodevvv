@@ -17,7 +17,7 @@ Frontend Developer • FiveM Developer
 
 ## About
 
-Passionate full-stack developer focused on building modern web applications and advanced FiveM resources.
+Passionate frontend developer focused on building modern web applications and advanced FiveM resources.
 
 My main interests include:
 
